@@ -3,7 +3,7 @@
 ```markdown
 🔗 Encurtador de URL em PHP
 
-Este é um projeto simples e funcional de **encurtador de URLs**, feito em **PHP com PDO** e banco de dados MySQL. Ele permite transformar URLs longas em links curtos personalizados, armazenando os dados em um banco e redirecionando automaticamente o visitante.
+Este é um projeto simples e funcional de encurtador de URLs, feito em PHP com PDO e banco de dados MySQL. Ele permite transformar URLs longas em links curtos personalizados, armazenando os dados em um banco e redirecionando automaticamente o visitante.
 
 
  🚀 Funcionalidades

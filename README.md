@@ -1,7 +1,4 @@
-Fico muito feliz em saber que você aprendeu bastante — isso é o mais importante! 😊
-Abaixo está um `README.md` completo, explicando o seu projeto de encurtador de URL em PHP com banco de dados.
 
----
 
 ### 📄 `README.md` — Encurtador de URL em PHP
 

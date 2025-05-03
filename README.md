@@ -17,27 +17,7 @@ Este é um projeto simples e funcional de **encurtador de URLs**, feito em **PHP
 - 🌐 Interface web para encurtar URLs
 - 💡 Estilo visual futurista com CSS único (neon cyberpunk)
 
----
 
-## 📦 Estrutura do Projeto
-
-```
-
-URLencurt/
-├── app/
-│   └── UrlController.php     # Lógica principal de encurtar e resgatar URLs
-│
-├── public/
-│   ├── index.php             # Página principal e redirecionamento
-│   └── style.css             # Estilo visual exclusivo
-│
-├── DB.php                    # Conexão com o banco de dados via PDO
-├── README.md                 # Documentação do projeto
-└── urls.sql                  # SQL para criação da tabela
-
-````
-
----
 
 ## 🧱 Banco de Dados
 

@@ -24,7 +24,6 @@ Este é um projeto simples e funcional de **encurtador de URLs**, feito em **PHP
 ```
 
 URLencurt/
-│
 ├── app/
 │   └── UrlController.php     # Lógica principal de encurtar e resgatar URLs
 │

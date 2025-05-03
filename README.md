@@ -1,15 +1,12 @@
-
-
-### 📄 `README.md` — Encurtador de URL em PHP
+ 📄 `README.md` — Encurtador de URL em PHP
 
 ```markdown
-# 🔗 Encurtador de URL em PHP
+🔗 Encurtador de URL em PHP
 
 Este é um projeto simples e funcional de **encurtador de URLs**, feito em **PHP com PDO** e banco de dados MySQL. Ele permite transformar URLs longas em links curtos personalizados, armazenando os dados em um banco e redirecionando automaticamente o visitante.
 
----
 
-## 🚀 Funcionalidades
+ 🚀 Funcionalidades
 
 - 🔐 Geração automática de URLs curtas com hash MD5
 - 📥 Armazenamento em banco de dados
@@ -19,11 +16,10 @@ Este é um projeto simples e funcional de **encurtador de URLs**, feito em **PHP
 
 
 
-## 🧱 Banco de Dados
+🧱 Banco de Dados
 
 Você precisa criar uma tabela chamada `urls` no seu banco de dados. Use o script abaixo:
 
-```sql
 CREATE TABLE urls (
     id INT AUTO_INCREMENT PRIMARY KEY,
     url TEXT NOT NULL,
